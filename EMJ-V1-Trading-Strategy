@@ -1,0 +1,3 @@
+git add .
+git commit -m "Initial commit of EMJ V1 Trading Strategy"
+git push origin main
